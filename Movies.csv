@@ -1,0 +1,151 @@
+User ID,Title,Genre,Rating
+1,Stranger Things,Drama,4.5
+1,Breaking Bad,Thriller,4.8
+1,The Crown,Drama,4.2
+2,The Witcher,Fantasy,4.0
+2,Mindhunter,Thriller,4.6
+2,Money Heist,Thriller,4.3
+3,Friends,Comedy,4.7
+3,The Office (US),Comedy,4.5
+3,Brooklyn Nine-Nine,Comedy,4.2
+4,Black Mirror,Sci-Fi,4.1
+4,Dark,Sci-Fi,4.5
+4,Westworld,Sci-Fi,4.4
+5,Narcos,Crime,4.6
+5,Parks and Recreation,Comedy,4.3
+5,The Mandalorian,Sci-Fi,4.7
+6,Stranger Things,Drama,4.4
+6,Mindhunter,Thriller,4.5
+6,The Crown,Drama,4.1
+7,Breaking Bad,Thriller,4.7
+7,Money Heist,Thriller,4.4
+7,Black Mirror,Sci-Fi,4.2
+8,The Witcher,Fantasy,4.3
+8,The Office (US),Comedy,4.6
+8,Parks and Recreation,Comedy,4.5
+9,Friends,Comedy,4.8
+9,Brooklyn Nine-Nine,Comedy,4.4
+9,The Mandalorian,Sci-Fi,4.6
+10,Dark,Sci-Fi,4.5
+10,Westworld,Sci-Fi,4.3
+10,Narcos,Crime,4.7
+11,Stranger Things,Drama,4.6
+11,Mindhunter,Thriller,4.4
+11,The Crown,Drama,4.3
+12,Breaking Bad,Thriller,4.9
+12,Money Heist,Thriller,4.3
+12,Black Mirror,Sci-Fi,4.1
+13,The Witcher,Fantasy,4.2
+13,The Office (US),Comedy,4.8
+13,Parks and Recreation,Comedy,4.4
+14,Friends,Comedy,4.9
+14,Brooklyn Nine-Nine,Comedy,4.5
+14,The Mandalorian,Sci-Fi,4.8
+15,Dark,Sci-Fi,4.6
+15,Westworld,Sci-Fi,4.4
+15,Narcos,Crime,4.8
+16,Stranger Things,Drama,4.7
+16,Mindhunter,Thriller,4.3
+16,The Crown,Drama,4.2
+17,Breaking Bad,Thriller,4.8
+17,Money Heist,Thriller,4.2
+17,Black Mirror,Sci-Fi,4.0
+18,The Witcher,Fantasy,4.1
+18,The Office (US),Comedy,4.7
+18,Parks and Recreation,Comedy,4.5
+19,Friends,Comedy,4.8
+19,Brooklyn Nine-Nine,Comedy,4.4
+19,The Mandalorian,Sci-Fi,4.7
+20,Dark,Sci-Fi,4.6
+20,Westworld,Sci-Fi,4.3
+20,Narcos,Crime,4.8
+21,Stranger Things,Drama,4.6
+21,Mindhunter,Thriller,4.4
+21,The Crown,Drama,4.3
+22,Breaking Bad,Thriller,4.9
+22,Money Heist,Thriller,4.3
+22,Black Mirror,Sci-Fi,4.1
+23,The Witcher,Fantasy,4.2
+23,The Office (US),Comedy,4.8
+23,Parks and Recreation,Comedy,4.4
+24,Friends,Comedy,4.9
+24,Brooklyn Nine-Nine,Comedy,4.5
+24,The Mandalorian,Sci-Fi,4.8
+25,Dark,Sci-Fi,4.6
+25,Westworld,Sci-Fi,4.4
+25,Narcos,Crime,4.8
+26,Stranger Things,Drama,4.7
+26,Mindhunter,Thriller,4.3
+26,The Crown,Drama,4.2
+27,Breaking Bad,Thriller,4.8
+27,Money Heist,Thriller,4.2
+27,Black Mirror,Sci-Fi,4.0
+28,The Witcher,Fantasy,4.1
+28,The Office (US),Comedy,4.7
+28,Parks and Recreation,Comedy,4.5
+29,Friends,Comedy,4.8
+29,Brooklyn Nine-Nine,Comedy,4.4
+29,The Mandalorian,Sci-Fi,4.7
+30,Dark,Sci-Fi,4.6
+30,Westworld,Sci-Fi,4.3
+30,Narcos,Crime,4.8
+31,Stranger Things,Drama,4.6
+31,Mindhunter,Thriller,4.4
+31,The Crown,Drama,4.3
+32,Breaking Bad,Thriller,4.9
+32,Money Heist,Thriller,4.3
+32,Black Mirror,Sci-Fi,4.1
+33,The Witcher,Fantasy,4.2
+33,The Office (US),Comedy,4.8
+33,Parks and Recreation,Comedy,4.4
+34,Friends,Comedy,4.9
+34,Brooklyn Nine-Nine,Comedy,4.5
+34,The Mandalorian,Sci-Fi,4.8
+35,Dark,Sci-Fi,4.6
+35,Westworld,Sci-Fi,4.4
+35,Narcos,Crime,4.8
+36,Stranger Things,Drama,4.7
+36,Mindhunter,Thriller,4.3
+36,The Crown,Drama,4.2
+37,Breaking Bad,Thriller,4.8
+37,Money Heist,Thriller,4.2
+37,Black Mirror,Sci-Fi,4.0
+38,The Witcher,Fantasy,4.1
+38,The Office (US),Comedy,4.7
+38,Parks and Recreation,Comedy,4.5
+39,Friends,Comedy,4.8
+39,Brooklyn Nine-Nine,Comedy,4.4
+39,The Mandalorian,Sci-Fi,4.7
+40,Dark,Sci-Fi,4.6
+40,Westworld,Sci-Fi,4.3
+40,Narcos,Crime,4.8
+41,Stranger Things,Drama,4.6
+41,Mindhunter,Thriller,4.4
+41,The Crown,Drama,4.3
+42,Breaking Bad,Thriller,4.9
+42,Money Heist,Thriller,4.3
+42,Black Mirror,Sci-Fi,4.1
+43,The Witcher,Fantasy,4.2
+43,The Office (US),Comedy,4.8
+43,Parks and Recreation,Comedy,4.4
+44,Friends,Comedy,4.9
+44,Brooklyn Nine-Nine,Comedy,4.5
+44,The Mandalorian,Sci-Fi,4.8
+45,Dark,Sci-Fi,4.6
+45,Westworld,Sci-Fi,4.4
+45,Narcos,Crime,4.8
+46,Stranger Things,Drama,4.7
+46,Mindhunter,Thriller,4.3
+46,The Crown,Drama,4.2
+47,Breaking Bad,Thriller,4.8
+47,Money Heist,Thriller,4.2
+47,Black Mirror,Sci-Fi,4.0
+48,The Witcher,Fantasy,4.1
+48,The Office (US),Comedy,4.7
+48,Parks and Recreation,Comedy,4.5
+49,Friends,Comedy,4.8
+49,Brooklyn Nine-Nine,Comedy,4.4
+49,The Mandalorian,Sci-Fi,4.7
+50,Dark,Sci-Fi,4.6
+50,Westworld,Sci-Fi,4.3
+50,Narcos,Crime,4.8
